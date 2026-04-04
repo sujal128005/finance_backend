@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Finance Tracking API
 A Python-powered backend for managing and analyzing financial records built with FastAPI, SQLite, and SQLAlchemy.
 
